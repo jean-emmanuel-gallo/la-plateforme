@@ -1,0 +1,53 @@
+* {
+    margin: auto;
+}
+
+.background-image {
+    background-color: blue;
+   margin-bottom: 50px;
+}
+
+.topbackground {
+    width: 50%;
+}
+
+.row.block-ditributeur {
+    margin: auto;
+}
+
+.txtintro {
+    text-align: center;
+    font-size: x-large;
+    color: white;
+}
+
+.card-img-top {
+    height: 89px;
+    width: 89px;
+}
+
+.txtwru {
+    text-align: center;
+}
+
+.offer {
+    background-color: blue;
+    text-align: center;
+    font-size: x-large;
+    color: white;
+}
+
+.jumbotron {
+    background-image: 
+        url(https://laplateforme.io/wp-content/uploads/2021/12/LANDING-AWS-empty-450.jpg);
+        height: 100%;
+        width: 100%;
+        color: white;
+}
+
+.jumbotron-jumbotron-fluid {
+    height: 100%;
+    width: 100%;
+    color: white;
+    background-color: orangered;
+}
